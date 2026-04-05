@@ -10,7 +10,6 @@ st.set_page_config(
 )
 
 # --- STYLING ---
-st.markdown("""
     <style>
     .main { background-color: #f8fafc; }
     .stButton>button { width: 100%; border-radius: 8px; height: 3em; background-color: #1e3a8a; color: white; font-weight: bold; }
